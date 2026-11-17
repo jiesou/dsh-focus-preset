@@ -1,6 +1,6 @@
 {
   "name": "@jiesou/dsh-focus-preset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Focus agent preset for dsh: a leaner standard preset with a compact persona prompt and spawn-only delegation",
   "files": [
     "cordis.patch.yml",

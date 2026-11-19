@@ -125,7 +125,8 @@
           - id: tool-fs-search
             name: '@deepseek-ai/dsh-tool-fs-search'
             config:
-              sampleOverCapGlobResults: false
+              sampleOverCapGlobResults: true
+              timeoutMs: 5000
           #     - id: str-replace-editor
           #       name: '@deepseek-ai/dsh-tool-str-replace-editor'
           #       config:
